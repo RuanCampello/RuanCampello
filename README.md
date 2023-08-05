@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Ruan Campello (or Rowan Campbell)</h1>
-<h3 align="start">A English Brazilian frontend developer</h3>
+<h3 align="start">Frontend developer, English literature lover and coffee addict</h3>
 
 🔭 I’m currently working on [SuperCompras](https://github.com/RuanCampello/supercompras)
 
