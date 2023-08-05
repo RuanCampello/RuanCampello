@@ -28,5 +28,7 @@
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" height="150" alt="ruancampello" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancampello&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="150" alt="ruancampello" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" height="150" alt="ruancampello" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancampello&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="150" alt="ruancampello" />
+</p>
