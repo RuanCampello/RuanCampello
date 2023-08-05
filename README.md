@@ -1,5 +1,4 @@
-<h1 align="start">Hi 👋, I'm Ruan Campello (or Rowan Campbell)</h1>
-<h3 align="start">Frontend developer, English literature lover and coffee addict</h3>
+<img width="100%" src="/banner-github.png" alt="banner">
 
 🔭 I’m currently working on [SuperCompras](https://github.com/RuanCampello/supercompras)
 
