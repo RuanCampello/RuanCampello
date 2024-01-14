@@ -1,10 +1,10 @@
 <img width="100%" src="/banner-github.png" alt="banner">
 
-🔭 I’m currently working on [SuperCompras](https://github.com/RuanCampello/supercompras)
+🔭 I’m currently working on [Chattastic](https://github.com/RuanCampello/chattastic)
 
 🌱 I’m currently learning **NextJS**
 
-📫 How to reach me **ruancampello888@gmail.com**
+📫 How to reach me **ruancampello999@gmail.com**
 
 <p align="left">
 </p>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js">
 </p>
 
-<p align="left" style="display: flex; width: 100%;">
-  <img style="flex: 1; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" height="170" alt="ruancampello" />
-  <img style="flex: 1; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancampello&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="170" alt="ruancampello" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" height="170" alt="ruancampello" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancampello&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="170" alt="ruancampello" />
 </p>
