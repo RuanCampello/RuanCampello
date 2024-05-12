@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [Chattastic](https://github.com/RuanCampello/chattastic)
 
-🌱 I’m currently learning **NextJS**
+🌱 I’m currently learning **React Native**
 
 📫 How to reach me **ruancampello999@gmail.com**
 
