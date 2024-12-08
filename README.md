@@ -1,11 +1,5 @@
 <img width="100%" src="/banner-github.png" alt="banner">
 
-🔭 I’m currently working on [Chattastic](https://github.com/RuanCampello/chattastic)
-
-🌱 I’m currently learning **React Native**
-
-📫 How to reach me **ruancampello999@gmail.com**
-
 <p align="left">
 </p>
 
