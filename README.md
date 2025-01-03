@@ -1,7 +1,7 @@
 <h3 align="left">Technologies and Tools</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/Rust-20?style=flat-square&logo=rust&color=%23fb5607" alt="rust" />
+<img src="https://img.shields.io/badge/Rust-20?style=for-the-badge&logo=rust&color=%23fb5607" alt="rust" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
