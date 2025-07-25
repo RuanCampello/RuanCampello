@@ -18,8 +18,8 @@
 </p>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" height=300 />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" height="300" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" alt="ruancampello" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ruancampello&hide_title=true&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE" height="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ruancampello&hide_title=true&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE" height="300" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancampello&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="170" alt="ruancampello" /> -->
 </p>
