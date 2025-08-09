@@ -7,13 +7,13 @@ Current obsessions include:
 
 <p align="center">
   <a href="https://github.com/RuanCampello/umbra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=umbra&theme=catppuccin_mocha" width="300">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=umbra&theme=catppuccin_mocha" height="80">
   </a>
   <a href="https://github.com/RuanCampello/noteworthy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=noteworthy&theme=catppuccin_mocha" width="300">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=noteworthy&theme=catppuccin_mocha" height="80">
   </a>
   <a href="https://github.com/RuanCampello/ignis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=ignis&theme=catppuccin_mocha" width="300">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=ignis&theme=catppuccin_mocha" height="80">
   </a>
 </p>
 
