@@ -1,3 +1,18 @@
+## About Me
+
+Hello there. I’m Ruan — half-English by blood, 100% fuelled by coffee, and currently a CS student at the UFPB (Brazil). Born and raised under the Brazilian sun, which is probably why I’m permanently overclocked.
+
+I have a habit of building things that shouldn’t exist, and then making them *work*.  
+Current obsessions include:  
+
+[https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=umbra&theme=catppuccin_mocha](https://github.com/RuanCampello/umbra)
+[https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=noteworthy&theme=catppuccin_mocha](https://github.com/RuanCampello/noteworthy)
+[https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=ignis&theme=catppuccin_mocha](https://github.com/RuanCampello/ignis)
+
+When I’m not tinkering with low-level internals, I occasionally descend into the world of web development and front-end work — a bit like a deep-sea diver popping up for air.
+
+Outside of code, I draw (the profile pic is my own), pretend I still play piano, and spend a frankly alarming amount of time listening to music. Most of my “free” time is actually just me working on yet another side project.
+
 <h3 align="left">Technologies and Tools</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Rust-20?style=for-the-badge&logo=rust&color=%23fb5607" alt="rust" />
