@@ -17,9 +17,11 @@
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js">
 </p>
 
+
+
 <a href="#">
   <!-- <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" alt="ruancampello" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile" height=200 align="center" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancampello&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="170" alt="ruancampello" /> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile" height=200 align="center" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" height="200" alt="ruancampello" />
 </p>
