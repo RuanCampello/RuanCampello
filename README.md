@@ -7,13 +7,13 @@ Current obsessions include:
 
 <p align="center">
   <a href="https://github.com/RuanCampello/umbra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=umbra&theme=catppuccin_mocha" height="80">
+    <img src="https://github-readme-stats-campello.vercel.app/api/pin/?username=RuanCampello&repo=umbra&theme=catppuccin_mocha" height="80">
   </a>
   <a href="https://github.com/RuanCampello/noteworthy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=noteworthy&theme=catppuccin_mocha" height="80">
+    <img src="https://github-readme-stats-campello.vercel.app/api/pin/?username=RuanCampello&repo=noteworthy&theme=catppuccin_mocha" height="80">
   </a>
   <a href="https://github.com/RuanCampello/ignis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCampello&repo=ignis&theme=catppuccin_mocha" height="80">
+    <img src="https://github-readme-stats-campello.vercel.app/api/pin/?username=RuanCampello&repo=ignis&theme=catppuccin_mocha" height="80">
   </a>
 </p>
 
@@ -42,8 +42,8 @@ Outside of code, I draw (the profile pic is my own), pretend I still play piano,
 
 
 <a href="#" align="center">
-  <!-- <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" alt="ruancampello" /> -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile,Perl,Stata,JSON,CSS,Prolog,sshconfig,netrc,PHP,INI,Docker,fish,OCaml,Image%20(png),HTML,%20Image%20(svg)" height="200" align="center" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" height="200" align="center" alt="ruancampello" />
+  <!-- <img height=200 width="49%" align="center" src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" /> -->
+  <!-- <img src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" alt="ruancampello" /> -->
+  <img width="49%" src="https://github-readme-stats-campello.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile,Perl,Stata,JSON,CSS,Prolog,sshconfig,netrc,PHP,INI,Docker,fish,OCaml,Image%20(png),HTML,%20Image%20(svg)" height="200" align="center" />
+  <img width="49%" src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" height="200" align="center" alt="ruancampello" />
 </p>
