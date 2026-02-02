@@ -44,6 +44,6 @@ Outside of code, I draw (the profile pic is my own), pretend I still play piano,
 <a href="#" align="center">
   <!-- <img height=200 width="49%" align="center" src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" /> -->
   <!-- <img src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" alt="ruancampello" /> -->
-  <img width="49%" src="https://github-readme-stats-campello.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile,Perl,Stata,JSON,CSS,Prolog,sshconfig,netrc,PHP,INI,Docker,fish,OCaml,Image%20(png),HTML,%20Image%20(svg),Properties,Java%20Properties,textmate,GitIgnore%20file,gitattributes,.env%20file" height="200" align="center" />
+  <img width="49%" src="https://github-readme-stats-campello.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile,Perl,Stata,JSON,CSS,Prolog,sshconfig,netrc,PHP,INI,Docker,fish,OCaml,Image%20(png),HTML,%20Image%20(svg),Properties,Java%20Properties,textmate,GitIgnore%20file,gitattributes,.env%20file,%20TSConfig,%20C" height="200" align="center" />
   <img width="49%" src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" height="200" align="center" alt="ruancampello" />
 </p>
