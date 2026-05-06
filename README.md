@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there. I’m Ruan — half-English by blood, 100% fuelled by coffee, and currently a CS student at the UFPB (Brazil). Born and raised under the Brazilian sun, which is probably why I’m permanently overclocked.
+Hello there. I’m Ruan — half-English by blood, 100% fuelled by coffee, and currently a CS student at the UFPB (Brazil).
 
 I have a habit of building things that shouldn’t exist, and then making them (mostly) *work*.  
 Current obsessions include:  
@@ -44,6 +44,6 @@ Outside of code, I draw (the profile pic is my own), pretend I still play piano,
 <a href="#" align="center">
   <!-- <img height=200 width="49%" align="center" src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" /> -->
   <!-- <img src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=tokyonight&locale=en" alt="ruancampello" /> -->
-  <img width="49%" src="https://github-readme-stats-campello.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile,Perl,Stata,JSON,CSS,Prolog,sshconfig,netrc,PHP,INI,Docker,fish,OCaml,Image%20(png),HTML,JavaScript,%20Image%20(svg),Properties,Java%20Properties,textmate,GitIgnore%20file,gitattributes,.env%20file,%20TSConfig,%20C,%20D" height="200" align="center" />
+  <img width="49%" src="https://github-readme-stats-campello.vercel.app/api/wakatime?username=@ruancampello&theme=catppuccin_mocha&layout=compact&hide=YAML,Other,Text,gitignore,CMAKE,CSV,Makefile,hyprlang,conf,Bash,bigfile,Perl,Stata,JSON,CSS,Prolog,sshconfig,netrc,PHP,INI,Docker,fish,OCaml,Image%20(png),HTML,JavaScript,%20Image%20(svg),Properties,Java%20Properties,textmate,GitIgnore%20file,gitattributes,.env%20file,%20TSConfig,%20C,%20D,%20kitty,%20TOML,%20Vim%20Script" height="200" align="center" />
   <img width="49%" src="https://github-readme-stats-campello.vercel.app/api?username=ruancampello&show_icons=true&theme=catppuccin_mocha&show=prs_merged" height="200" align="center" alt="ruancampello" />
 </p>
