@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there. I’m Ruan — half-English by blood, 100% fuelled by coffee, and currently a CS student at the UFPB (Brazil).
+Hello there. I’m Ruan, 100% fuelled by coffee, and currently a CS student at the UFPB (Brazil).
 
 I have a habit of building things that shouldn’t exist, and then making them (mostly) *work*.  
 Current obsessions include:  
